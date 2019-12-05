@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Nogueira-lucas/Hello_World_React_App.git/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/Nogueira-lucas/Hello_World_React_App.git/static/js/main.7780d77f.chunk.js",
+    "main.js.map": "/Nogueira-lucas/Hello_World_React_App.git/static/js/main.7780d77f.chunk.js.map",
+    "runtime-main.js": "/Nogueira-lucas/Hello_World_React_App.git/static/js/runtime-main.009301b9.js",
+    "runtime-main.js.map": "/Nogueira-lucas/Hello_World_React_App.git/static/js/runtime-main.009301b9.js.map",
+    "static/js/2.e754b9a4.chunk.js": "/Nogueira-lucas/Hello_World_React_App.git/static/js/2.e754b9a4.chunk.js",
+    "static/js/2.e754b9a4.chunk.js.map": "/Nogueira-lucas/Hello_World_React_App.git/static/js/2.e754b9a4.chunk.js.map",
+    "index.html": "/Nogueira-lucas/Hello_World_React_App.git/index.html",
+    "precache-manifest.8f68d809345bf6c4419bce50738d6a1e.js": "/Nogueira-lucas/Hello_World_React_App.git/precache-manifest.8f68d809345bf6c4419bce50738d6a1e.js",
+    "service-worker.js": "/Nogueira-lucas/Hello_World_React_App.git/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/Nogueira-lucas/Hello_World_React_App.git/static/css/main.d498bfb3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.009301b9.js",
+    "static/js/2.e754b9a4.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.7780d77f.chunk.js"
+  ]
+}
