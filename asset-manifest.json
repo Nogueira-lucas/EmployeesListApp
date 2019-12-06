@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Nogueira-lucas/Hello_World_React_App/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/Nogueira-lucas/Hello_World_React_App/static/js/main.7780d77f.chunk.js",
-    "main.js.map": "/Nogueira-lucas/Hello_World_React_App/static/js/main.7780d77f.chunk.js.map",
-    "runtime-main.js": "/Nogueira-lucas/Hello_World_React_App/static/js/runtime-main.32c9961d.js",
-    "runtime-main.js.map": "/Nogueira-lucas/Hello_World_React_App/static/js/runtime-main.32c9961d.js.map",
-    "static/js/2.e754b9a4.chunk.js": "/Nogueira-lucas/Hello_World_React_App/static/js/2.e754b9a4.chunk.js",
-    "static/js/2.e754b9a4.chunk.js.map": "/Nogueira-lucas/Hello_World_React_App/static/js/2.e754b9a4.chunk.js.map",
-    "index.html": "/Nogueira-lucas/Hello_World_React_App/index.html",
-    "precache-manifest.9a2df4d08f0b34a6bb4379fedd6186ea.js": "/Nogueira-lucas/Hello_World_React_App/precache-manifest.9a2df4d08f0b34a6bb4379fedd6186ea.js",
-    "service-worker.js": "/Nogueira-lucas/Hello_World_React_App/service-worker.js",
-    "static/css/main.d498bfb3.chunk.css.map": "/Nogueira-lucas/Hello_World_React_App/static/css/main.d498bfb3.chunk.css.map"
+    "main.css": "/Hello_World_React_App/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/Hello_World_React_App/static/js/main.7780d77f.chunk.js",
+    "main.js.map": "/Hello_World_React_App/static/js/main.7780d77f.chunk.js.map",
+    "runtime-main.js": "/Hello_World_React_App/static/js/runtime-main.51ad8514.js",
+    "runtime-main.js.map": "/Hello_World_React_App/static/js/runtime-main.51ad8514.js.map",
+    "static/js/2.e754b9a4.chunk.js": "/Hello_World_React_App/static/js/2.e754b9a4.chunk.js",
+    "static/js/2.e754b9a4.chunk.js.map": "/Hello_World_React_App/static/js/2.e754b9a4.chunk.js.map",
+    "index.html": "/Hello_World_React_App/index.html",
+    "precache-manifest.f29c2e81a07e894430f6a85e72da2ec9.js": "/Hello_World_React_App/precache-manifest.f29c2e81a07e894430f6a85e72da2ec9.js",
+    "service-worker.js": "/Hello_World_React_App/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/Hello_World_React_App/static/css/main.d498bfb3.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.32c9961d.js",
+    "static/js/runtime-main.51ad8514.js",
     "static/js/2.e754b9a4.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
     "static/js/main.7780d77f.chunk.js"
